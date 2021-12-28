@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
 //sdfsfsefsManager
        // ddsfsd
         ///dscdcds
+
+        //Atabek
     }
 }
